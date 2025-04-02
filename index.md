@@ -5,3 +5,5 @@
 ##### Dit is header 5
 ###### Dit is header 6
 En dit is gewone tekst
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
