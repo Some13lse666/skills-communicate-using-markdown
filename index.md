@@ -6,8 +6,8 @@
 ###### Dit is header 6
 En dit is gewone tekst
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Voorbeeld van code
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -15,7 +15,14 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
 ``` dax
 MEASURE = MAXX ( Datum, Datum[Year] )
 ```
+
+## Voorbeeld vna enen Taaklijst
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+## Voorbeeld van een afbeelding
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
