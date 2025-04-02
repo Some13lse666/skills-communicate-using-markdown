@@ -19,4 +19,3 @@ var myVar = "Hello, world!";
 ``` dax
 MEASURE = MAXX ( Datum, Datum[Year] )
 ```
-
