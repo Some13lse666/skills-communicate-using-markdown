@@ -23,6 +23,14 @@ MEASURE = MAXX ( Datum, Datum[Year] )
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+- [ ] ...
+- [ ] .
+
+
+
+
+
+
 
 ## Voorbeeld van een afbeelding
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
